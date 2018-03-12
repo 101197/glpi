@@ -30,7 +30,7 @@
                         </ul>
                         <form class="form-inline mr-auto" target="_self">
                         </form>
-                        <a class="btn btn-light action-button" role="button" href="#">Préférences</a>
+                        <a class="btn btn-light action-button" role="button" href="preferences.php">Préférences</a>
                         <a class="btn btn-light action-button" role="button" href="deconnexion.php">Deconnexion</a></div>
                 </div>
             </nav>

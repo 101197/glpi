@@ -24,7 +24,7 @@
                             <li class="nav-item" role="presentation"><a class="nav-link" href="parc.php">Parc</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="assistance.php">Assistance</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="gestion.php">Gestion</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link active" href="outils.php">Outils</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="outils.php">Outils</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Administration</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="configuration.php">Configuration</a></li>
                         </ul>
