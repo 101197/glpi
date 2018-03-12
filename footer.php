@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6 footer-navigation">
                 <h3 ><a class ="my-footer" href="#">GL<span>Poulpi </span></a></h3>
-                <p class="links"><a href="#">Accueil </a><strong> · </strong><a href="#">Vue personnelle</a><strong>· </strong><a href="#">Vue groupe</a><strong> · </strong><a href="#">Vue globale</a><strong> · </strong><a href="#">Tous </a></p>
+                <p class="links"><a href="test/index.php">Accueil </a><strong> · </strong><a href="test/index.php">Vue personnelle</a><strong>· </strong><a href="test/index.php">Vue groupe</a><strong> · </strong><a href="test/index.php">Vue globale</a><strong> · </strong><a href="test/index.php">Tous </a></p>
                 <p class="company-name">GLPoulpi 9.1.6 Copyright© 2015-2017 </p>
             </div>
             <div class="col-md-4 col-sm-6 footer-contacts">
