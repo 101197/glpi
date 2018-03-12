@@ -1,0 +1,14 @@
+* {
+  font-size: large;
+  font-family: verdana, arial, sans-serif;
+}
+
+#settings-button {
+  float: right;
+}
+
+#dropdown{
+  float: right;
+  color: white;
+  display: inline-block;
+}
