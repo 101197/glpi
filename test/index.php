@@ -38,7 +38,6 @@
                 <li class="nav-item"><a class="nav-link active" href="#item-1-1" id="item-1-1-tab" data-toggle="tab" role="tab" aria-controls="item-1-1" aria-selected="true">Vue personnelle</a></li>
                 <li class="nav-item"><a class="nav-link" href="#item-1-2" id="item-1-2-tab" data-toggle="tab" role="tab" aria-controls="item-1-2" aria-selected="false">Vue groupe</a></li>
                 <li class="nav-item"><a class="nav-link" href="#item-1-3" id="item-1-3-tab" data-toggle="tab" role="tab" aria-controls="item-1-3" aria-selected="false">Vue globale</a></li>
-                <li class="nav-item"><a class="nav-link" href="#item-1-4" id="item-1-4-tab" data-toggle="tab" role="tab" aria-controls="item-1-4" aria-selected="false">Flux RSS</a></li>
                 <li class="nav-item"><a class="nav-link" href="#item-1-5" id="item-1-5-tab" data-toggle="tab" role="tab" aria-controls="item-1-5" aria-selected="false">Tous</a></li>
             </ul>
         </div>
@@ -56,11 +55,6 @@
                 <div
                     id="item-1-3" class="tab-pane fade" role="tabpanel" aria-labelledby="item-1-3-tab">
                     <h4>Vue globale</h4>
-                    <p>A completer</p>
-                </div>
-                <div
-                    id="item-1-4" class="tab-pane fade" role="tabpanel" aria-labelledby="item-1-4-tab">
-                    <h4>Flux RSS</h4>
                     <p>A completer</p>
                 </div>
                 <div
