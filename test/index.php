@@ -17,16 +17,16 @@
     <div class="card">
         <div class="card-header">
             <nav class="navbar navbar-light navbar-expand-md navigation-clean-search">
-                <div class="container"><a class="navbar-brand" href="index.html">GLPoulpi</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                <div class="container"><a class="navbar-brand" href="index.php">GLPoulpi</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse"
                         id="navcol-1">
                         <ul class="nav navbar-nav">
-                            <li class="nav-item" role="presentation"><a class="nav-link active" href="#">Parc</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Assistance</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Gestion</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Outils</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Administration</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Configuration</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="parc.php">Parc</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="assistance.php">Assistance</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="gestion.php">Gestion</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="outils.php">Outils</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Administration</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="configuration.php">Configuration</a></li>
                         </ul>
                         <form class="form-inline mr-auto" target="_self">
                         </form>
@@ -73,6 +73,7 @@
     </div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <?php include '../footer.html'; ?>
 </body>
 
 </html>
