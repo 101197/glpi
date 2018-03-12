@@ -26,3 +26,7 @@ nav li a:hover{
   color: black;
   background-color: white;
 }
+
+.my-footer {
+  font-family: arial, serif, sans-serif; /*Change la police dans le footer*/
+}
