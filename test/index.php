@@ -21,12 +21,12 @@
                     <div class="collapse navbar-collapse"
                         id="navcol-1">
                         <ul class="nav navbar-nav">
-                            <li class="nav-item" role="presentation"><a class="nav-link active" href="#">Parc</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Assistance</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Gestion</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Outils</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Administration</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Configuration</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link active" href="parc.php">Parc</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="assistance.php">Assistance</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="gestion.php">Gestion</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="outils.php">Outils</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Administration</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="configuration.php">Configuration</a></li>
                         </ul>
                         <form class="form-inline mr-auto" target="_self">
                         </form>
