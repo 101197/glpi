@@ -3,16 +3,17 @@
 <head>
   <title>Accueil</title>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="../css/nav.css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/nav.css"/>
   <script src="../js/vendor/jquery-3.3.1.min.js"></script>
   <script src="../js/vendor/bootstrap.min.js"></script>
 </head>
 <body>
 
 <nav class="navbar navbar-inverse">
-  <div class="container-fluid">
+  <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="#">GLPoulpi</a>
     </div>
@@ -38,10 +39,11 @@
         </div>
       </div>
     </form>
-  </div>
-  <div class="container">
+    <div class="nav navbar-nav navbar-right">
+
     <div id="dropdown">
-      <button class="btn btn-primary dropdown-toggl" type="button" data-toggle="dropdown">
+
+      <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
       <span class="caret"></span></button>
       <ul class="dropdown-menu">
         <li><a href="#">Utilisateurs</a></li>
@@ -58,6 +60,11 @@
       </ul>
     </div>
   </div>
+
+  </div>
+
+
+
 </nav>
 </body>
 </html>
