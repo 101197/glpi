@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GLPoulpi</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap2.min.css">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome2.min.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Search.css">
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -23,8 +23,8 @@
                     <div class="collapse navbar-collapse"
                         id="navcol-1">
                         <ul class="nav navbar-nav">
-                            <li class="nav-item" role="presentation"><a class="nav-link active" href="parc.php">Parc</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="assistance.php">Assistance</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="parc.php">Parc</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link active" href="assistance.php">Assistance</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="gestion.php">Gestion</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="outils.php">Outils</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Administration</a></li>
@@ -38,9 +38,10 @@
             </nav>
       </div>
 
-      <script src="assets/js/jquery.min.js"></script>
-      <script src="assets/bootstrap/js/bootstrap2.min.js"></script>
-      <?php include '../footer.php'; ?>
-  </body>
+            <script src="assets/js/jquery2.min.js"></script>
+            <script src="assets/bootstrap/js/bootstrap2.min.js"></script>
+            
+            <?php include '../footer.php'; ?>
+        </body>
 
-  </html>
+        </html>
