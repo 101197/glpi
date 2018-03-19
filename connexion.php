@@ -29,7 +29,6 @@
         $_SESSION['id'] = $userinfo['IDClient'];
         $_SESSION['pseudo'] = $userinfo['Pseudo'];
         $_SESSION['mail'] = $userinfo['Email'];
-        $_SESSION['avatarurl'] = $userinfo['AvatarUrl'];
 
         //Remplacement du header("Location: index.php); par du js à cause d'une erreur
         echo '<script> document.location.replace("accueil.php"); </script>';

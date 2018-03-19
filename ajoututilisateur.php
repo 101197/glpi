@@ -16,8 +16,8 @@
   <!-- Barre de navigation -->
   <?php
   include './assets/php/nav.php';
-
   ?>
+  
     <div class="row register-form">
         <div class="col-md-8 col-md-offset-2">
             <form class="form-horizontal custom-form">
