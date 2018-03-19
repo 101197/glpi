@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="assets/css/Navigation-with-Button.css">
     <link rel="stylesheet" href="assets/css/Navigation-with-Search.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="../assets/css/Pretty-Footer.css">
+    <link rel="stylesheet" href="assets/css/Pretty-Footer.css">
 
 </head>
 
@@ -39,14 +39,8 @@
       </div>
 
             <script src="assets/js/jquery2.min.js"></script>
-<<<<<<< HEAD
             <script src="assets/js/bootstrap2.min.js"></script>
             <?php include 'footer.php'; ?>
-=======
-            <script src="assets/bootstrap/js/bootstrap2.min.js"></script>
-            
-            <?php include '../footer.php'; ?>
->>>>>>> c0c5e48dd844293a9e72a07e718b282d7c8d40c5
         </body>
 
         </html>
