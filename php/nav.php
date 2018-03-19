@@ -1,3 +1,5 @@
+<?php include 'setting.bdd.php'; ?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
