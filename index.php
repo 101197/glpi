@@ -26,7 +26,7 @@
                             <li class="nav-item" role="presentation"><a class="nav-link" href="assistance.php">Assistance</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="gestion.php">Gestion</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="outils.php">Outils</a></li>
-                            <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Administration</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="administration.php">Afdministration</a></li>
                             <li class="nav-item" role="presentation"><a class="nav-link" href="configuration.php">Configuration</a></li>
                         </ul>
                         <form class="form-inline mr-auto" target="_self">
